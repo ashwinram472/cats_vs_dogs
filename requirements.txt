@@ -1,0 +1,55 @@
+absl-py==0.9.0
+astor @ file:///home/conda/feedstock_root/build_artifacts/astor_1593610464257/work
+blinker==1.4
+brotlipy==0.7.0
+cachetools @ file:///home/conda/feedstock_root/build_artifacts/cachetools_1593420445823/work
+certifi==2020.6.20
+cffi @ file:///D:/bld/cffi_1595805721274/work
+chardet==3.0.4
+click==7.1.2
+cryptography @ file:///D:/bld/cryptography_1595348955342/work
+cycler==0.10.0
+gast==0.2.2
+google-auth @ file:///home/conda/feedstock_root/build_artifacts/google-auth_1596824655612/work
+google-auth-oauthlib==0.4.1
+google-pasta==0.2.0
+grpcio @ file:///D:/bld/grpcio_1596715850903/work
+h5py @ file:///D:/bld/h5py_1595110299148/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
+importlib-metadata @ file:///D:/bld/importlib-metadata_1593211612489/work
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.0
+kiwisolver==1.2.0
+Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1589366472132/work
+matplotlib==3.3.0
+mkl-service==2.3.0
+numpy @ file:///D:/bld/numpy_1595523078866/work
+oauthlib==3.0.1
+opt-einsum==0+untagged.61.gd905544.dirty
+Pillow==7.2.0
+protobuf==3.12.4
+pyasn1==0.4.8
+pyasn1-modules==0.2.7
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+PyJWT==1.7.1
+pyOpenSSL==19.1.0
+pyparsing==2.4.7
+pyreadline==2.1
+PySocks==1.7.1
+python-dateutil==2.8.1
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1592425495151/work
+requests-oauthlib @ file:///home/conda/feedstock_root/build_artifacts/requests-oauthlib_1595492159598/work
+rsa @ file:///home/conda/feedstock_root/build_artifacts/rsa_1591996208734/work
+scipy @ file:///C:/ci/scipy_1592916958183/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+tensorboard @ file:///home/conda/feedstock_root/build_artifacts/tensorboard_1595378845776/work/tensorboard-2.3.0-py3-none-any.whl
+tensorboard-plugin-wit @ file:///home/conda/feedstock_root/build_artifacts/tensorboard-plugin-wit_1592816951245/work/tensorboard_plugin_wit-1.6.0.post3-py3-none-any.whl
+tensorflow==2.1.0
+tensorflow-estimator==2.1.0
+termcolor==1.1.0
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1595434816409/work
+Werkzeug==0.16.1
+win-inet-pton==1.1.0
+wincertstore==0.2
+wrapt==1.12.1
+zipp==3.1.0
